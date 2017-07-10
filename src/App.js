@@ -10,7 +10,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div> 
+      <div class="container"> 
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
